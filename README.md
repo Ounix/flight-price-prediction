@@ -1,4 +1,5 @@
-# Flight Price Prediction
+# Prediksi Fluktuasi Harga Tiket Pesawat Berdasarkan Maskapai dan Rute Penerbangan Menggunakan Algoritma Regresi
+# Kelompok Hiyak- Hiyak
 
 ## Deskripsi Proyek
 Proyek ini memecahkan masalah prediksi harga tiket pesawat menggunakan pendekatan Machine Learning. Model menganalisis berbagai fitur seperti maskapai penerbangan, kelas kabin (Economy vs Business), durasi perjalanan, jumlah transit, dan waktu keberangkatan untuk mengestimasi harga tiket secara akurat.
@@ -18,6 +19,6 @@ Data yang digunakan berasal dari dataset penerbangan EaseMyTrip yang tersedia di
 
 ## Kontribusi Tim
 Proyek ini dikerjakan oleh tiga anggota dengan pembagian fokus tugas sebagai berikut:
-1. **Muhammad Garnida Barreta Novianto**: Business Understanding dan Data Gathering & Ingestion
-2. **Azarya Shalom Widura**: Exploratory Data Analysis (EDA)
-3. **Muhammad Dhimas Setiaji**: Data Cleaning dan Preprocessing
+1. **Muhammad Garnida Barreta Novianto (123240230)**: Business Understanding dan Data Gathering & Ingestion
+2. **Azarya Shalom Widura (123240232)**: Exploratory Data Analysis (EDA)
+3. **Muhammad Dhimas Setiaji (123240240)**: Data Cleaning dan Preprocessing
